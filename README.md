@@ -35,4 +35,4 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosesmajok&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moses-com&show_icons=true&theme=radical)
